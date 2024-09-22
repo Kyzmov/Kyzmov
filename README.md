@@ -3,7 +3,7 @@
 ## 👀 About Me
 - **Interests:** Computer Technology (Linux, Windows, Cybersecurity, Web Development)
 - **Currently Learning:** Cybersecurity
-- **Fun Fact:** I once debugged a code while skydiving! (Just kidding, but wouldn’t that be cool?)
+- **Fun Fact:** I can type 120 words per minute… with my eyes closed! (Just kidding, but wouldn’t that be impressive?)
 
 ## 📫 How to Reach Me
 - **Email:** hristokuzmov@proton.me
