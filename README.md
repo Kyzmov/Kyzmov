@@ -5,6 +5,7 @@ Interests: Computer Technology (Linux, Windows, Cybersecurity, Web Development)
 Currently Learning: Cybersecurity
 Fun Fact: I once debugged a code while skydiving! (Just kidding, but wouldn’t that be cool?)
 
+
 📫 How to Reach Me
 Email: hristokuzmov@proton.me
 
